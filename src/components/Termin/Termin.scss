@@ -1,0 +1,150 @@
+.termin-section {
+  background-color: #eaf6fa;
+  padding: 50px 20px;
+  text-align: center;
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 20px;
+  }
+
+  p {
+    max-width: 700px;
+    margin: 0 auto 40px;
+    font-size: 1.2rem;
+    color: #555;
+    line-height: 1.6;
+  }
+
+  .free-consult {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 820px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    text-align: center;
+
+    h3 {
+      font-size: 1.5rem;
+      color: #333;
+      margin-bottom: 10px;
+    }
+
+    .price {
+      font-size: 1.4rem;
+      color: #007bff;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+
+    .description {
+      font-size: 1rem;
+      color: #666;
+      margin-bottom: 20px;
+      line-height: 1.4;
+    }
+
+    .email-button {
+      display: inline-block;
+      background-color: #007bff;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: bold;
+      padding: 12px 24px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: all 0.3s ease;
+
+      &:hover {
+        background-color: #0056b3;
+        transform: scale(1.05);
+      }
+    }
+  }
+
+  .price-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .price-card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    flex: 0 1 calc(33.333% - 20px);
+    min-width: 250px;
+    text-align: center;
+
+    h3 {
+      font-size: 1.5rem;
+      color: #333;
+      margin-bottom: 10px;
+    }
+
+    .price {
+      font-size: 1.4rem;
+      color: #007bff;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+
+    .description {
+      font-size: 1rem;
+      color: #666;
+      margin-bottom: 20px;
+      line-height: 1.4;
+    }
+
+    .email-button {
+      display: inline-block;
+      background-color: #007bff;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: bold;
+      padding: 12px 24px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      text-decoration: none;
+      transition: all 0.3s ease;
+
+      &:hover {
+        background-color: #0056b3;
+        transform: scale(1.05);
+      }
+    }
+  }
+
+  .contact-info {
+    margin-top: 100px;
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+  }
+
+  @media (max-width: 900px) {
+    .price-card {
+      flex: 0 1 calc(50% - 20px);
+    }
+  }
+
+  @media (max-width: 600px) {
+    .price-card {
+      flex: 0 1 100%;
+    }
+  }
+}

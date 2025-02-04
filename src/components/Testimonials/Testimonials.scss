@@ -1,0 +1,90 @@
+.testimonials-section {
+  background-color: #eaf6fa;
+  padding: 60px 20px;
+  text-align: center;
+
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #222;
+    margin-bottom: 40px;
+  }
+
+  .testimonials-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px; /* ✅ Умеренный отступ */
+    justify-content: center;
+  }
+
+  .testimonial-card {
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    padding: 25px;
+    max-width: 400px; /* ✅ Карточки ограничены */
+    flex: 1 1 calc(45% - 15px); /* ✅ Две карточки в ряд */
+    text-align: left;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: auto; /* ✅ Убрали фиксированную высоту */
+
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+    }
+
+    .quote {
+      font-size: 1rem;
+      color: #444;
+      line-height: 1.6;
+      font-style: italic;
+      flex-grow: 1;
+    }
+
+    .author {
+      font-size: 1rem;
+      font-weight: bold;
+      color: #007bff;
+      text-align: right;
+      margin-top: 10px;
+    }
+  }
+
+  /* 📱 Адаптация для планшетов */
+  @media (max-width: 1024px) {
+    .testimonials-grid {
+      gap: 20px;
+    }
+
+    .testimonial-card {
+      flex: 1 1 calc(50% - 15px);
+    }
+  }
+
+  /* 📱 Адаптация для мобильных устройств */
+  @media (max-width: 768px) {
+    h2 {
+      font-size: 2rem;
+    }
+
+    .testimonials-grid {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .testimonial-card {
+      width: 90%;
+      max-width: 100%;
+      padding: 20px;
+    }
+  }
+}

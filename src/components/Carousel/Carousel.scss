@@ -1,0 +1,150 @@
+.gallery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #f9f9f9;
+  padding: 40px 20px;
+
+  .gallery-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+
+  .gallery-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+
+    .gallery-item {
+      position: absolute;
+      width: 300px;
+      height: 300px;
+      border-radius: 15px;
+      overflow: hidden;
+      opacity: 0;
+      z-index: 0;
+      transition: all 0.3s ease-in-out;
+
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 15px;
+      }
+
+      &-prev {
+        opacity: 0.5;
+        transform: translateX(-50%) scale(0.8);
+        z-index: 1;
+      }
+      &-active {
+        opacity: 1;
+        transform: scale(1);
+        z-index: 2;
+      }
+      &-next {
+        opacity: 0.5;
+        transform: translateX(50%) scale(0.8);
+        z-index: 1;
+      }
+
+      /* ✅ ВОССТАНОВЛЕН СПЕЦИАЛЬНЫЙ РАЗМЕР ДЛЯ ВТОРОГО ФОТО */
+      &-second {
+        width: 270px;
+        height: 320px;
+      }
+    }
+
+    /* ✅ Стрелки ОСТАЮТСЯ на ПК */
+    .gallery-controls-prev,
+    .gallery-controls-next {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background-color: rgba(0, 0, 0, 0.6);
+      border: none;
+      color: #fff;
+      font-size: 24px;
+      width: 40px;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      z-index: 5;
+
+      &:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+        transform: translateY(-50%) scale(1.1);
+      }
+
+      &:active {
+        transform: translateY(-50%) scale(0.9);
+      }
+    }
+
+    .gallery-controls-prev {
+      left: 20px;
+    }
+
+    .gallery-controls-next {
+      right: 20px;
+    }
+  }
+
+  /* ✅ СКРЫВАЕМ ТОЧКИ НА ПК */
+  .gallery-dots {
+    display: none;
+  }
+
+  @media (max-width: 767px) {
+    .gallery-container {
+      height: 400px;
+
+      .gallery-item {
+        width: 100%;
+        height: 100%;
+        border-radius: 10px;
+      }
+    }
+
+    .gallery-controls-prev,
+    .gallery-controls-next {
+      display: none;
+    }
+
+    .gallery-dots {
+      display: flex;
+      position: absolute;
+      bottom: 15px;
+      left: 50%;
+      transform: translateX(-50%);
+      gap: 10px;
+      z-index: 5;
+
+      .dot {
+        width: 12px;
+        height: 12px;
+        background-color: #bbb;
+        border-radius: 50%;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+
+        &.active {
+          background-color: #007bff;
+          transform: scale(1.2);
+        }
+      }
+    }
+  }
+}

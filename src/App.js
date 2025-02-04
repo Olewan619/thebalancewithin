@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react"; // Добавляем импорт React
+import FirstSection from "./components/FirstSection/FirstSection";
+import NavBar from "./components/NavBar/NavBar";
+import LibrarySection from "./components/LibrarySection/LibrarySection";
+import FreeTrialSection from "./components/Termin/Termin";
+import Carousel from "./components/Carousel/Carousel";
+import AboutMe from "./components/AboutSection/AboutMe";
+import Footer from "./components/Footer/Footer";
+import TestimonialsSection from "./components/Testimonials/Testimonials";
+import VideoYouTube from "./components/VideoYouTube/VideoYouTube";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <NavBar />
+      <FirstSection />
+      <LibrarySection />
+      <FreeTrialSection />
+      <Carousel />
+      <AboutMe />
+      <TestimonialsSection />
+      <VideoYouTube />
+      <Footer />
+    </>
   );
 }
 
