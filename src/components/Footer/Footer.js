@@ -57,7 +57,7 @@ function Footer() {
       </div>
       <div className="footer-column">
         <h3>Email</h3>
-        <p>isabell.beer@googlemail.com</p>
+        <p>info.thebalancewithin@gmail.com</p>
         <form ref={form} onSubmit={sendEmail}>
           <input type="text" name="from_name" placeholder="Ihr Name" required />
           <input
