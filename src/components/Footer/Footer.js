@@ -46,12 +46,12 @@ function Footer() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              +49 123 456 7890
+              +49 017 669 467 377
             </a>
           </li>
           <li>
             <FaPhone style={{ marginRight: "10px", color: "#0078d4" }} />
-            <a href="tel:+49876543210">+49 987 654 3210</a>
+            <a href="tel:+49876543210"> +49 017 669 467 377</a>
           </li>
         </ul>
       </div>
