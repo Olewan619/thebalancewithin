@@ -21,21 +21,67 @@ function LibrarySection() {
   const fullTextFirst = (
     <>
       <p>
-        Der <strong>Emotions Code®</strong> ist eine Form der{" "}
+        Der <strong>Emotions Code</strong> ist eine Form der{" "}
         <strong>Energiearbeit</strong>, die von{" "}
         <strong>Dr. Bradley Nelson</strong> entwickelt wurde und die es
         ermöglicht, sich von <strong>emotionalen Blockaden</strong> zu befreien.
       </p>
       <p>
-        Laut Dr. Nelson hat jede <strong>Emotion</strong> ihre eigene
-        individuelle <strong>Schwingung</strong>. Wenn eine Emotion nicht
-        verarbeitet wird, bleibt ihre Schwingung im{" "}
-        <strong>Energiekörper</strong> stecken und kann das{" "}
-        <strong>Gleichgewicht</strong> des Menschen stören.
+        Das Wissen um das <strong>menschliche Energiefeld</strong> existiert
+        schon seit Tausenden von Jahren. Es wird auf unterschiedliche Weise als
+        „Chi, Ki, Prana oder Lebensenergie“ bezeichnet.
       </p>
       <p>
-        Das Erkennen und <strong>Loslassen</strong> solcher blockierter
-        Emotionen kann zu großen <strong>Veränderungen</strong> führen.
+        Die Quantenphysik belegt, dass auf subatomarer Ebene alles in unserer
+        Welt aus <strong>Energie</strong> besteht. Das gilt sowohl für unseren
+        Körper, als auch für unsere Gefühle und Gedanken.
+      </p>
+      <p>
+        Laut <strong>Dr. Bradley Nelson</strong> hat jede{" "}
+        <strong>Emotion</strong> ihre eigene individuelle{" "}
+        <strong>Schwingung</strong>. Wenn eine Emotion nicht verarbeitet werden
+        kann, bleibt ihre Schwingung im <strong>Energiekörper</strong> stecken
+        und kann den Menschen aus dem <strong>Gleichgewicht</strong> bringen.
+        Dieses Ungleichgewicht stört die <strong>Selbstheilungskräfte</strong>{" "}
+        des Körpers.
+      </p>
+      <p>
+        Doch was sind <strong>gefangene Emotionen</strong>?
+      </p>
+      <p>
+        Wir alle sammeln im Laufe unseres Lebens etlichen{" "}
+        <strong>emotionalen Ballast</strong> an. Dieser Ballast entsteht in
+        Situationen, in denen wir negative Emotionen erleben, die wir jedoch im
+        Erlebensmoment nicht verarbeiten können.
+      </p>
+      <p>
+        Die Spuren, Auswirkungen, die diese emotional schwierigen Ereignisse
+        hinterlassen, bleiben oft in uns gefangen und können nicht gelöst und
+        losgelassen werden. Die in diesem Prozess entstehende Energie wird zu
+        einer störenden Schwingung, die sich ungünstig auf unsere körperliche
+        und emotionale Gesundheit auswirkt.
+      </p>
+      <p>
+        Das kann letztendlich zu dem Gefühl führen, im Leben blockiert zu sein,
+        keine Klarheit im Leben zu spüren, und sie können uns auch{" "}
+        <strong>physisch wie auch psychisch</strong> krank machen.
+      </p>
+      <p>
+        Das <strong>Erkennen, Aufspüren und Loslassen</strong> solcher
+        blockierter Emotionen kann zu großen Veränderungen in allen Bereichen
+        unseres Lebens führen.
+      </p>
+      <p>
+        Durch die Arbeit mit dem <strong>Emotions Code</strong> vollzieht sich
+        ein <strong>Aufräumen</strong> und eine <strong>Reinigung</strong> von
+        unseren belastenden Emotionen. Wir werden unseren{" "}
+        <strong>emotionalen Ballast</strong> los, den wir vielleicht schon sehr
+        lange, zu lange mit uns tragen.
+      </p>
+      <p>
+        Danach kann die <strong>Lebensenergie</strong> in unserem Körper freier
+        fließen und dieser Zustand ermöglicht es uns, dass wir uns{" "}
+        <strong>neu ausrichten</strong> können.
       </p>
     </>
   );
@@ -53,19 +99,38 @@ function LibrarySection() {
         <strong>Dr. Joe Dispenza</strong>).
       </p>
       <p>
-        Der{" "}
-        <strong>
-          Body Code <sup>&trade;</sup>
-        </strong>{" "}
-        ist eine Art <strong>Wissensdatenbank</strong> über verschiedene{" "}
-        <strong>Ungleichgewichte</strong>, die im Körper entstehen können. Diese
-        Methode hilft, <strong>Blockaden</strong> zu identifizieren und
-        aufzulösen.
+        Außer den emotionalen Altlasten gibt es auch eine Reihe von weiteren
+        Ursachen, die uns aus dem Gleichgewicht bringen können.
       </p>
       <p>
-        Sie kann <strong>Beziehungen verbessern</strong>,{" "}
-        <strong>Ängste auflösen</strong> und helfen,{" "}
-        <strong>erfolgreicher</strong> zu sein.
+        Der <strong>Body Code</strong> ist eine Art{" "}
+        <strong>Wissensdatenbank</strong>
+        über verschiedene <strong>Ungleichgewichte</strong>, die im Körper
+        entstehen können.
+      </p>
+      <p>
+        Das Unterbewusstsein hat Zugang zu diesen Informationen und kann mit uns
+        darüber kommunizieren, welche körperlichen, psychischen und emotionalen
+        Probleme uns aus dem Gleichgewicht gebracht haben.
+      </p>
+      <p>
+        Mit dem <strong>Body Code</strong> werden nicht die Symptome behandelt,
+        sondern die Ungleichgewichte werden aufgedeckt und gelöst. Dadurch
+        schafft man Bedingungen, durch die der Körper sich selbst heilen kann.
+      </p>
+      <p>
+        Diese Methode ermöglicht es nicht nur unsere Gesundheit zu verbessern,
+        sondern auch Blockaden ausfindig zu machen, die uns daran hindern in
+        mehr Fülle zu leben.
+      </p>
+      <p>
+        Dies würde zum Beispiel bedeuten bessere Beziehungen zu haben,
+        erfolgreicher in der Schule, im Studium oder bei der Arbeit zu sein,
+        oder sich von seinen Ängsten zu befreien.
+      </p>
+      <p>
+        Diese umfassende Methode kann Menschen jeden Alters helfen und alle
+        können von der <strong>Body Code</strong> Methode profitieren.
       </p>
     </>
   );
@@ -78,16 +143,43 @@ function LibrarySection() {
     <>
       <p>
         Wenn wir <strong>emotional</strong> stark verletzt werden, aber dieser
-        Schmerz für uns zu intensiv ist, dann schützt unser{" "}
+        Schmerz für uns zu intensiv ist, dann schützt unser
         <strong>Unterbewusstsein</strong> unser <strong>Herz</strong>, indem es
         eine <strong>Mauer</strong> aus eingeschlossenen Emotionen um das Herz
         herum bildet.
       </p>
       <p>
+        Diese Mauer ist ein Schutzmechanismus, der in diesem Moment sehr
+        hilfreich ist, denn durch diese „Schutzmauer“ (Herzmauer), verspüren wir
+        den Schmerz ein bisschen weniger.
+      </p>
+      <p>
+        Auf Dauer ist aber so eine Herzmauer schädlich für uns. Das Herz hat
+        seine eigene, starke Schwingung. Je mehr Schichten an störenden
+        Schwingungen von eingeschlossenen Emotionen, die als Herzwand dienen,
+        vorhanden sind, umso weniger kann die eigene Schwingung des Herzens nach
+        außen in die Welt strömen.
+      </p>
+      <p>
+        Mit einer dicken Herzmauer ist es deshalb viel schwieriger Liebe zu
+        geben und Liebe zu empfangen.
+      </p>
+      <p>
         Laut <strong>Dr. Bradley Nelson</strong> haben{" "}
-        <strong>93% der Erwachsenen eine Herzmauer</strong>. Das{" "}
-        <strong>Lösen</strong> dieser Mauer kann positive{" "}
-        <strong>Veränderungen</strong> in vielen Bereichen des Lebens bewirken.
+        <strong>93% der Erwachsenen eine Herzmauer</strong>.
+      </p>
+      <p>
+        Das <strong>Lösen</strong> einer Herzmauer kann oft Wunderbares
+        bewirken, was sich positiv auf alle Beziehungen auswirken kann. Manchen
+        der behandelten Menschen hat diese Lösung die Ehe gerettet. Die
+        Auflösung der Herzwand kann auch dabei helfen im Leben bessere
+        Entscheidungen zu treffen.
+      </p>
+      <p>
+        Es wurde sogar schon oft berichtet, dass Menschen, die an Depressionen
+        litten, dadurch große Hilfe erfahren haben. Oft reichen 2 bis 3
+        Sitzungen aus, um die Herzmauer zu lösen, wovon die Menschen selbst,
+        ihre Familie und ihr ganzes Umfeld profitieren.
       </p>
     </>
   );
@@ -100,22 +192,40 @@ function LibrarySection() {
         Für jene Menschen, die sich nach einer{" "}
         <strong>tiefgründigen Veränderung</strong> sehnen und bereit sind,
         selbst <strong>Arbeit in ihre Transformation</strong> zu investieren,
-        biete ich eine <strong>7-monatige Begleitung</strong> an.
+        biete ich die Möglichkeit an, über eine Zeitspanne von{" "}
+        <strong>7 Monaten</strong>, gemeinsam mit mir zu ergründen, was man in
+        seinem Leben verändern möchte und wie man Schritt für Schritt sein Ziel
+        erreichen kann.
       </p>
       <p>
-        Wir lösen <strong>negative, eingeschlossene Emotionen</strong>,{" "}
-        <strong>hindernde Glaubenssätze</strong> auf und decken blockierende{" "}
-        <strong>Verhaltensmuster</strong> auf.
+        Dabei lösen wir <strong>negative, eingeschlossene Emotionen</strong>,
+        sowie
+        <strong> hindernde Glaubenssätze</strong> auf und decken jene
+        Verhaltensmuster auf, die blockierend im Wege stehen.
       </p>
       <p>
-        Ich zeige <strong>Übungen</strong>, die täglich zu Hause integriert
-        werden sollten. Alle 14 Tage gibt es eine{" "}
-        <strong>1,5-stündige Sitzung</strong> (persönlich oder online).
+        In den Sitzungen gehe ich intensiv darauf ein, wie man durch die
+        richtige Art und Weise der Manifestation und durch{" "}
+        <strong>stärkende Affirmationen</strong> das in sein Leben ziehen kann,
+        wonach man sich vielleicht schon lange sehnt.
+      </p>
+      <p>
+        Die aktive Mitarbeit ist sehr wichtig. Dabei werde ich{" "}
+        <strong>Übungen</strong> zeigen und aufgeben, die man jeden Tag zu Hause
+        machen sollte und dabei lernt, diese in den Alltag zu integrieren.
+      </p>
+      <p>
+        Wir werden alle <strong>14 Tage</strong> eine{" "}
+        <strong>1,5-stündige Sitzung</strong> persönlich oder online
+        vereinbaren.
       </p>
       <p>
         Denn nur durch eine <strong>neue Denkweise</strong> und veränderte{" "}
-        <strong>Gewohnheiten</strong> kann etwas wahrhaftig{" "}
-        <strong>Neues</strong> entstehen.
+        <strong>Gewohnheiten</strong> kann etwas wahrhaftig Neues entstehen.
+      </p>
+      <p>
+        Wenn man sich innerlich verändert, dann verändert sich auch unsere
+        Außenwelt.
       </p>
     </>
   );
