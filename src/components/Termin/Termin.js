@@ -46,7 +46,8 @@ function TerminSection() {
             <h3>5 Sitzungen</h3>
             <p className="price">300 €</p>
             <p className="description">
-              Begleitung zur intensiven Unterstützung (60 € pro Sitzung).
+              Begleitung zur intensiven Unterstützung mit Emotions Code® und Der
+              Body Code™<br></br>(60 € pro Sitzung).
             </p>
             <a
               href="mailto:info.thebalancewithin@gmail.com"
@@ -58,7 +59,7 @@ function TerminSection() {
 
           <div className="price-card">
             <h3>15 Sitzungen</h3>
-            <p className="price">1200 €</p>
+            <p className="price">1450 €</p>
             <p className="description">
               Transformationsarbeit über 7 Monate mit Sitzungen von jeweils 1,5
               Stunden.

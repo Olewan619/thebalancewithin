@@ -8,8 +8,8 @@ const FirstSection = () => {
       <img src={firstpage} alt="Mountains" className="bg-image" />
       <div className="first-content">
         <h2>
-          Bist du bereit dich von deinen emotionalen Blockaden zu lösen und dich
-          zu befreien?
+          Bist du bereit, dich von deinen emotionalen Blockaden zu lösen und
+          dich zu befreien?
         </h2>
       </div>
     </div>

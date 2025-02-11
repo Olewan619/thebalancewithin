@@ -22,7 +22,7 @@ function TestimonialsSection() {
               "Ankommen, zur Ruhe kommen und bei sich selbst ankommen...im Außen
               und Innen, dazu lädt die von Frau Beer geschaffene Atmosphäre,
               sowie ihre Klarheit und Empathie ein. Ich gehe schon nach einigen
-              Sitzungen leichter durch meinen Alltag und Ängste und Sorgen
+              Sitzungen leichter durch meinen Alltag, Ängste und Sorgen
               verlieren immer mehr ihre Dominanz."
             </p>
             <p className="author">Carla L.</p>
@@ -34,12 +34,12 @@ function TestimonialsSection() {
               ich habe mich aus Neugierde darauf eingelassen. In den Sitzungen
               habe ich mich sehr wohl gefühlt, Isabell strahlte immer Ruhe und
               Selbstsicherheit aus und war nie indiskret oder aufdringlich. Nach
-              den Sitzungen war es als ob man von mir Gewicht weggenommen hätte,
-              fühlte mich leichter und war heiterer als sonst. Die ultimative
-              Überzeugung kam, als nach ein paar Sitzungen das Knacken meines
-              Unterkiefers, das mich seit fast einem Jahr plagte, von einem Tag
-              auf den anderen aufhörte und seit 5 Monaten auch nicht wieder
-              kam."
+              den Sitzungen war es, als ob man von mir Gewicht weggenommen
+              hätte, fühlte mich leichter und war heiterer als sonst. Die
+              ultimative Überzeugung kam, als nach ein paar Sitzungen das
+              Knacken meines Unterkiefers, das mich seit fast einem Jahr plagte,
+              von einem Tag auf den anderen aufhörte und seit 5 Monaten auch
+              nicht wiederkam."
             </p>
             <p className="author">Anette B.</p>
           </div>

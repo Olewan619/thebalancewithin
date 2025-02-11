@@ -56,14 +56,14 @@ function Footer() {
         </ul>
       </div>
       <div className="footer-column">
-        <h3>Email</h3>
+        <h3>E-Mail</h3>
         <p>info.thebalancewithin@gmail.com</p>
         <form ref={form} onSubmit={sendEmail}>
           <input type="text" name="from_name" placeholder="Ihr Name" required />
           <input
             type="email"
             name="from_email"
-            placeholder="Ihre Email"
+            placeholder="Ihre E-Mail"
             required
           />
           <textarea
@@ -76,12 +76,7 @@ function Footer() {
         </form>
       </div>
       <div className="footer-column">
-        <h3>Öffnungszeiten</h3>
-        <ul>
-          <li>Montag–Freitag: 09:00 – 18:00</li>
-          <li>Samstag: 10:00 – 14:00</li>
-          <li>Sonntag: geschlossen</li>
-        </ul>
+        <h3>Termine nach Vereinbarung</h3>
       </div>
     </footer>
   );

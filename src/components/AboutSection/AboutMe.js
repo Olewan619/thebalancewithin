@@ -7,27 +7,27 @@ function AboutMe() {
       <div className="about-me-container">
         <p className="about-me-description">
           Mein Name ist <strong>Isabell Beer</strong>, ich bin 49 Jahre alt und
-          lebe in Freiburg im Breisgau, Deutschland. Nun zurückblickend waren
-          die vielen Herausforderungen in meinem Leben, die dazu geführt haben,
-          mich mit Energieheilarbeit zu beschäftigen.
+          lebe in Freiburg im Breisgau, Deutschland. Zurückblickend waren es die
+          vielen Herausforderungen in meinem Leben, die dazu geführt haben, mich
+          mit Energieheilarbeit zu beschäftigen.
         </p>
 
         <p className="about-me-description">
           Meine ersten gesundheitlichen Probleme traten mit 18 Jahren auf. Ich
           litt an <strong>Neurodermitis</strong>. Die behandelnden Ärzte
           meinten, damit müsste ich leben. Mit Anfang 20 bekam ich eine{" "}
-          <strong>chronische Dickdarmentzündung</strong>, wobei die Schulmedizin
-          nur die Symptome lindern konnte. Diese persönlichen Erfahrungen mit
-          Krankheiten brachten mich dazu, einen starken Willen zu entwickeln, zu
-          lernen und verstehen zu wollen, was Gesundheit und Vitalität in
-          unserem Leben ausmachen. Ich wollte die Ursachen von Krankheit auf
-          einer tieferen Ebene verstehen.
+          <strong>chronische Dickdarmentzündung</strong>, bei der die
+          Schulmedizin nur die Symptome lindern konnte. Diese persönlichen
+          Erfahrungen mit Krankheiten brachten mich dazu, einen starken Willen
+          zu entwickeln, zu lernen und verstehen zu wollen, was Gesundheit und
+          Vitalität in unserem Leben ausmachen. Ich wollte die Ursachen von
+          Krankheit auf einer tieferen Ebene verstehen.
         </p>
 
         <p className="about-me-description">
           So lernte ich auf meinem Weg viele erstaunliche, gesundheitsfördernde
           Methoden kennen, von denen ich heute noch folgende praktiziere:{" "}
-          <strong>Gyrotonic und Gyrokinesis</strong>,{" "}
+          <strong>Gyrotonic® und Gyrokinesis®</strong>,{" "}
           <strong>Rebirthing Breathwork</strong>, sowie die{" "}
           <strong>Wim Hof Methode</strong>. Die Suche nach der Verbindung von
           Körper, Geist und Seele hat mich auch zur intensiven Meditation
@@ -46,7 +46,7 @@ function AboutMe() {
         </p>
 
         <p className="about-me-description">
-          Mein Ziel ist, den Menschen zu helfen, ihre eigene{" "}
+          Mein Ziel ist es, Menschen zu helfen, ihre eigene{" "}
           <strong>innere Heilkraft</strong> zu aktivieren, um ihr
           körperliches-geistig-seelisches Gleichgewicht zu finden, damit sie in
           ihrem vollen Potential leben können.
@@ -54,7 +54,7 @@ function AboutMe() {
 
         {/* Ausbildung-Sektion */}
         <div className="ausbildung-block">
-          <h3 className="about-me-subtitle">Ausbildung</h3>
+          <h3 className="about-me-subtitle">Ausbildungen</h3>
           <ul className="about-me-list">
             <li>staatlich geprüfte Sport und Gymnastiklehrerin</li>
             <li>staatlich geprüfte Physiotherapeutin</li>

@@ -21,7 +21,7 @@ function VideoYouTube() {
       <div className="info-banner">
         <p className="info-text">
           Bei meinem Angebot handelt es sich nicht um eine Therapie oder
-          Diagnoseverfahren und soll nicht die ärztliche, psychologische oder
+          Diagnoseverfahren und es soll nicht die ärztliche, psychologische oder
           heilkundliche Behandlung ersetzen. Meine Arbeit hat die Intention,
           Körper, Geist und Seele zu harmonisieren, um die eigenen
           Heilungskräfte zu aktivieren.

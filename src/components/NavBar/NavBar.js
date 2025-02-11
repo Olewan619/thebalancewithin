@@ -35,12 +35,12 @@ function NavBar() {
           </li>
           <li>
             <a href="#termin" onClick={handleLinkClick}>
-              Termin und Preis
+              Termine und Preise
             </a>
           </li>
           <li>
             <a href="#testimonials" onClick={handleLinkClick}>
-              Testimonials
+              Erfahrungsberichte
             </a>
           </li>
           <li>

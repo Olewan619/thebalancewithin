@@ -42,8 +42,8 @@ function LibrarySection() {
         <strong>Schwingung</strong>. Wenn eine Emotion nicht verarbeitet werden
         kann, bleibt ihre Schwingung im <strong>Energiekörper</strong> stecken
         und kann den Menschen aus dem <strong>Gleichgewicht</strong> bringen.
-        Dieses Ungleichgewicht stört die <strong>Selbstheilungskräfte</strong>{" "}
-        des Körpers.
+        Dieses Ungleichgewicht schränkt die Wirkung der{" "}
+        <strong>Selbstheilungskräfte</strong> ein.
       </p>
       <p>
         Doch was sind <strong>gefangene Emotionen</strong>?
@@ -55,7 +55,7 @@ function LibrarySection() {
         Erlebensmoment nicht verarbeiten können.
       </p>
       <p>
-        Die Spuren, Auswirkungen, die diese emotional schwierigen Ereignisse
+        Die Spuren und Auswirkungen, die diese emotional schwierigen Ereignisse
         hinterlassen, bleiben oft in uns gefangen und können nicht gelöst und
         losgelassen werden. Die in diesem Prozess entstehende Energie wird zu
         einer störenden Schwingung, die sich ungünstig auf unsere körperliche
@@ -63,24 +63,20 @@ function LibrarySection() {
       </p>
       <p>
         Das kann letztendlich zu dem Gefühl führen, im Leben blockiert zu sein,
-        keine Klarheit im Leben zu spüren, und sie können uns auch{" "}
-        <strong>physisch wie auch psychisch</strong> krank machen.
-      </p>
-      <p>
-        Das <strong>Erkennen, Aufspüren und Loslassen</strong> solcher
-        blockierter Emotionen kann zu großen Veränderungen in allen Bereichen
-        unseres Lebens führen.
+        keine Klarheit im Leben zu spüren, und sie können uns{" "}
+        <strong>physisch wie auch psychisch</strong> krank machen.Das{" "}
+        <strong>Erkennen, Aufspüren und Loslassen</strong> solcher blockierter
+        Emotionen kann zu großen Veränderungen in allen Bereichen unseres Lebens
+        führen.
       </p>
       <p>
         Durch die Arbeit mit dem <strong>Emotions Code</strong> vollzieht sich
         ein <strong>Aufräumen</strong> und eine <strong>Reinigung</strong> von
-        unseren belastenden Emotionen. Wir werden unseren{" "}
+        den uns belastenden Emotionen. Wir werden unseren{" "}
         <strong>emotionalen Ballast</strong> los, den wir vielleicht schon sehr
-        lange, zu lange mit uns tragen.
-      </p>
-      <p>
-        Danach kann die <strong>Lebensenergie</strong> in unserem Körper freier
-        fließen und dieser Zustand ermöglicht es uns, dass wir uns{" "}
+        lange, zu lange mit uns tragen.Anschließend kann die{" "}
+        <strong>Lebensenergie</strong> in unserem Körper freier fließen und
+        dieser Zustand ermöglicht es uns, dass wir uns{" "}
         <strong>neu ausrichten</strong> können.
       </p>
     </>
@@ -104,9 +100,8 @@ function LibrarySection() {
       </p>
       <p>
         Der <strong>Body Code</strong> ist eine Art{" "}
-        <strong>Wissensdatenbank</strong>
-        über verschiedene <strong>Ungleichgewichte</strong>, die im Körper
-        entstehen können.
+        <strong>Wissensdatenbank</strong> verschiedener{" "}
+        <strong>Ungleichgewichte</strong>, die im Körper entstehen.
       </p>
       <p>
         Das Unterbewusstsein hat Zugang zu diesen Informationen und kann mit uns
@@ -124,13 +119,13 @@ function LibrarySection() {
         mehr Fülle zu leben.
       </p>
       <p>
-        Dies würde zum Beispiel bedeuten bessere Beziehungen zu haben,
-        erfolgreicher in der Schule, im Studium oder bei der Arbeit zu sein,
-        oder sich von seinen Ängsten zu befreien.
+        Dies würde zum Beispiel bedeuten, bessere Beziehungen zu haben,
+        erfolgreicher in der Schule, im Studium oder bei der Arbeit zu sein, und
+        befreiter durchs Leben zu gehen.
       </p>
       <p>
-        Diese umfassende Methode kann Menschen jeden Alters helfen und alle
-        können von der <strong>Body Code</strong> Methode profitieren.
+        Diese umfassende Methode kann Menschen jeden Alters helfen.Somit könen
+        alle von der <strong>Body Code</strong> Methode profitieren.
       </p>
     </>
   );
@@ -143,15 +138,15 @@ function LibrarySection() {
     <>
       <p>
         Wenn wir <strong>emotional</strong> stark verletzt werden, aber dieser
-        Schmerz für uns zu intensiv ist, dann schützt unser
+        Schmerz für uns zu intensiv ist, dann schützt unser{" "}
         <strong>Unterbewusstsein</strong> unser <strong>Herz</strong>, indem es
         eine <strong>Mauer</strong> aus eingeschlossenen Emotionen um das Herz
         herum bildet.
       </p>
       <p>
         Diese Mauer ist ein Schutzmechanismus, der in diesem Moment sehr
-        hilfreich ist, denn durch diese „Schutzmauer“ (Herzmauer), verspüren wir
-        den Schmerz ein bisschen weniger.
+        hilfreich ist, denn durch Sie, verspüren wir den Schmerz ein bisschen
+        weniger.
       </p>
       <p>
         Auf Dauer ist aber so eine Herzmauer schädlich für uns. Das Herz hat
@@ -161,7 +156,7 @@ function LibrarySection() {
         außen in die Welt strömen.
       </p>
       <p>
-        Mit einer dicken Herzmauer ist es deshalb viel schwieriger Liebe zu
+        Mit einer dicken Herzmauer ist es deshalb viel schwieriger, Liebe zu
         geben und Liebe zu empfangen.
       </p>
       <p>
@@ -169,11 +164,10 @@ function LibrarySection() {
         <strong>93% der Erwachsenen eine Herzmauer</strong>.
       </p>
       <p>
-        Das <strong>Lösen</strong> einer Herzmauer kann oft Wunderbares
-        bewirken, was sich positiv auf alle Beziehungen auswirken kann. Manchen
-        der behandelten Menschen hat diese Lösung die Ehe gerettet. Die
-        Auflösung der Herzwand kann auch dabei helfen im Leben bessere
-        Entscheidungen zu treffen.
+        Das <strong>Lösen</strong> einer Herzmauer kann Wunderbares bewirken,
+        was sich positiv auf alle Beziehungen auswirken kann. Manchen der
+        behandelten Menschen hat diese Lösung die Ehe gerettet.Es kann auch
+        dabei helfen, im Leben bessere Entscheidungen zu treffen.
       </p>
       <p>
         Es wurde sogar schon oft berichtet, dass Menschen, die an Depressionen
@@ -193,21 +187,21 @@ function LibrarySection() {
         <strong>tiefgründigen Veränderung</strong> sehnen und bereit sind,
         selbst <strong>Arbeit in ihre Transformation</strong> zu investieren,
         biete ich die Möglichkeit an, über eine Zeitspanne von{" "}
-        <strong>7 Monaten</strong>, gemeinsam mit mir zu ergründen, was man in
-        seinem Leben verändern möchte und wie man Schritt für Schritt sein Ziel
-        erreichen kann.
+        <strong>7 Monaten</strong>, gemeinsam mit mir zu ergründen, was Sie in
+        Ihrem Leben verändern möchten und wie Sie Schritt für Schritt Ihr Ziel
+        erreichen könen.
       </p>
       <p>
-        Dabei lösen wir <strong>negative, eingeschlossene Emotionen</strong>,
+        Dabei lösen wir <strong>negative, eingeschlossene Emotionen</strong>{" "}
         sowie
-        <strong> hindernde Glaubenssätze</strong> auf und decken jene
+        <strong> hinderliche Glaubenssätze</strong> auf und decken jene
         Verhaltensmuster auf, die blockierend im Wege stehen.
       </p>
       <p>
         In den Sitzungen gehe ich intensiv darauf ein, wie man durch die
         richtige Art und Weise der Manifestation und durch{" "}
-        <strong>stärkende Affirmationen</strong> das in sein Leben ziehen kann,
-        wonach man sich vielleicht schon lange sehnt.
+        <strong>stärkende Affirmationen</strong>, schon lang Ersehntes ins Leben
+        gezogen werden kann.
       </p>
       <p>
         Die aktive Mitarbeit ist sehr wichtig. Dabei werde ich{" "}
@@ -215,17 +209,11 @@ function LibrarySection() {
         machen sollte und dabei lernt, diese in den Alltag zu integrieren.
       </p>
       <p>
-        Wir werden alle <strong>14 Tage</strong> eine{" "}
+        Wir werden in diesen 7 Monaten alle <strong>14 Tage</strong> eine{" "}
         <strong>1,5-stündige Sitzung</strong> persönlich oder online
-        vereinbaren.
-      </p>
-      <p>
-        Denn nur durch eine <strong>neue Denkweise</strong> und veränderte{" "}
-        <strong>Gewohnheiten</strong> kann etwas wahrhaftig Neues entstehen.
-      </p>
-      <p>
-        Wenn man sich innerlich verändert, dann verändert sich auch unsere
-        Außenwelt.
+        vereinbaren. Denn nur durch eine <strong>neue Denkweise</strong> und
+        veränderte <strong>Gewohnheiten</strong> kann etwas wahrhaftig Neues
+        entstehen.
       </p>
     </>
   );
@@ -233,7 +221,7 @@ function LibrarySection() {
   return (
     <section id="angebot" className="library-section">
       <h2 className="section-title">Mein Angebot</h2>
-      <p className="section-description">Energie und Transformationsarbeit.</p>
+      <p className="section-description">Energie-und Transformationsarbeit.</p>
 
       <div className="cards-container">
         <div className="card">
@@ -261,7 +249,7 @@ function LibrarySection() {
         <div className="card">
           <img src={code3} alt="Herzwand" />
           <div className="card-content">
-            <h3>Herzwand</h3>
+            <h3>Herzmauer</h3>
             {expandedThird ? fullTextThird : <p>{shortTextThird}</p>}
             <button onClick={() => setExpandedThird(!expandedThird)}>
               {expandedThird ? "Weniger anzeigen" : "Weiterlesen"}
