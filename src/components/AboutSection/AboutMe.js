@@ -58,9 +58,9 @@ function AboutMe() {
           <ul className="about-me-list">
             <li>staatlich geprüfte Sport und Gymnastiklehrerin</li>
             <li>staatlich geprüfte Physiotherapeutin</li>
-            <li>zertifizierte Gyrotonic (R) Trainerin</li>
-            <li>zertifizierte Emotionscode (R) Anwenderin</li>
-            <li>zertifizierte Body Code (R) Anwenderin</li>
+            <li>zertifizierte Gyrotonic® Trainerin</li>
+            <li>zertifizierte Emotionscode® Anwenderin</li>
+            <li>zertifizierte Body Code® Anwenderin</li>
           </ul>
         </div>
       </div>

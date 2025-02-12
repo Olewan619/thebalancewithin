@@ -221,7 +221,9 @@ function LibrarySection() {
   return (
     <section id="angebot" className="library-section">
       <h2 className="section-title">Mein Angebot</h2>
-      <p className="section-description">Energie-und Transformationsarbeit.</p>
+      <p className="section-description-angebot">
+        Energie-und Transformationsarbeit.
+      </p>
 
       <div className="cards-container">
         <div className="card">
