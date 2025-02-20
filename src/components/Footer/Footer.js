@@ -42,7 +42,7 @@ function Footer() {
           <li>
             <FaWhatsapp style={{ marginRight: "10px", color: "#25D366" }} />
             <a
-              href="https://wa.me/491234567890"
+              href="https://wa.me/49017669467377"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -51,7 +51,7 @@ function Footer() {
           </li>
           <li>
             <FaPhone style={{ marginRight: "10px", color: "#0078d4" }} />
-            <a href="tel:+49876543210"> +49 017 669 467 377</a>
+            <a href="tel:+49017669467377"> +49 017 669 467 377</a>
           </li>
         </ul>
       </div>
