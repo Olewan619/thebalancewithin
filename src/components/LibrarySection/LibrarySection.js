@@ -5,7 +5,7 @@ import "./LibrarySection.scss";
 import code1 from "../../img/code1.jpg";
 import code2 from "../../img/code2.jpg";
 import code3 from "../../img/code3.jpg";
-import code4 from "../../img/code4.jpg";
+import code5 from "../../img/code5.jpg";
 
 function LibrarySection() {
   // Состояния для карточек (развернуто/свернуто)
@@ -183,37 +183,32 @@ function LibrarySection() {
   const fullTextFourth = (
     <>
       <p>
-        Für jene Menschen, die sich nach einer{" "}
-        <strong>tiefgründigen Veränderung</strong> sehnen und bereit sind,
-        selbst <strong>Arbeit in ihre Transformation</strong> zu investieren,
-        biete ich die Möglichkeit an, über eine Zeitspanne von{" "}
-        <strong>7 Monaten</strong>, gemeinsam mit mir zu ergründen, was Sie in
-        Ihrem Leben verändern möchten und wie Sie Schritt für Schritt Ihr Ziel
-        erreichen könen.
+        Gyrotonic ® ist ein <strong>ganzheitliches Bewegungskonzept</strong>,
+        das die <strong>Gelenke sanft mobilisiert</strong>, die Muskulatur
+        kräftigt und den Körper in{" "}
+        <strong>fließenden, dreidimensionalen Bewegungen</strong> neu
+        ausrichtet.
       </p>
+
       <p>
-        Dabei lösen wir <strong>negative, eingeschlossene Emotionen</strong>{" "}
-        sowie
-        <strong> hinderliche Glaubenssätze</strong> auf und decken jene
-        Verhaltensmuster auf, die blockierend im Wege stehen.
+        Durch den Einsatz spezieller Geräte werden die Bewegungen unterstützt
+        und geführt, sodass auch tiefliegende Muskelgruppen angesprochen und{" "}
+        <strong>Fehlhaltungen korrigiert</strong> werden können. Der Therapeut
+        begleitet jede Übung mit gezielten Impulsen und führt den Körper sanft
+        in die <strong>optimale Position</strong>.
       </p>
+
       <p>
-        In den Sitzungen gehe ich intensiv darauf ein, wie man durch die
-        richtige Art und Weise der Manifestation und durch{" "}
-        <strong>stärkende Affirmationen</strong>, schon lang Ersehntes ins Leben
-        gezogen werden kann.
+        In der physiotherapeutischen Anwendung fördert Gyrotonic gezielt die{" "}
+        <strong>Beweglichkeit</strong>, <strong>Kraft</strong> und{" "}
+        <strong>Koordination</strong> – besonders nach Verletzungen oder bei{" "}
+        <strong>chronischen Beschwerden</strong>.
       </p>
+
       <p>
-        Die aktive Mitarbeit ist sehr wichtig. Dabei werde ich{" "}
-        <strong>Übungen</strong> zeigen und aufgeben, die man jeden Tag zu Hause
-        machen sollte und dabei lernt, diese in den Alltag zu integrieren.
-      </p>
-      <p>
-        Wir werden in diesen 7 Monaten alle <strong>14 Tage</strong> eine{" "}
-        <strong>1,5-stündige Sitzung</strong> persönlich oder online
-        vereinbaren. Denn nur durch eine <strong>neue Denkweise</strong> und
-        veränderte <strong>Gewohnheiten</strong> kann etwas wahrhaftig Neues
-        entstehen.
+        Die harmonische Verbindung von Bewegung und Atem schafft ein Gefühl von{" "}
+        <strong>Leichtigkeit</strong> und <strong>Vitalität</strong>, das weit
+        über das Training hinaus wirkt.
       </p>
     </>
   );
@@ -222,7 +217,7 @@ function LibrarySection() {
     <section id="angebot" className="library-section">
       <h2 className="section-title">Mein Angebot</h2>
       <p className="section-description-angebot">
-        Energie-und Transformationsarbeit.
+        Energieheilarbeit und Gyrotonic®
       </p>
 
       <div className="cards-container">
@@ -260,9 +255,9 @@ function LibrarySection() {
         </div>
 
         <div className="card">
-          <img src={code4} alt="Transformationsarbeit" />
+          <img src={code5} alt="Transformationsarbeit" />
           <div className="card-content">
-            <h3>Transformationsarbeit</h3>
+            <h3>Gyrotonic ®</h3>
             {expandedFourth ? fullTextFourth : <p>{shortTextFourth}</p>}
             <button onClick={() => setExpandedFourth(!expandedFourth)}>
               {expandedFourth ? "Weniger anzeigen" : "Weiterlesen"}

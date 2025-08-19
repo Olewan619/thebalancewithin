@@ -76,7 +76,13 @@ function Footer() {
         </form>
       </div>
       <div className="footer-column">
-        <h3>Termine nach Vereinbarung</h3>
+        <h3>Impressum</h3>
+        <ul>
+          <li>The Balance Within</li>
+          <li>Isabell Beer</li>
+          <li>Physiotherapeutin</li>
+          <li>Pochgasse 25, 79104 Freiburg</li>
+        </ul>
       </div>
     </footer>
   );

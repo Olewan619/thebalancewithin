@@ -43,6 +43,17 @@ function TestimonialsSection() {
             </p>
             <p className="author">Anette B.</p>
           </div>
+          <div className="testimonial-card">
+            <p className="quote">
+              "Nachdem ich 43 Jahre klassische Physiotherapie aufgrund meiner
+              skoliosebedingten Rückenbeschwerden und Bandscheibenvorfälle
+              bekommen habe, behandelt mich Isabell mit der Gyrotonic Methode.
+              Durch Isabells sorgsame Behandlung und ihren professionellen
+              Einsatz des Gyrotonic Gerätes geht es mir heute so gut wie nie
+              zuvor."
+            </p>
+            <p className="author">Brigitte S.</p>
+          </div>
         </div>
       </div>
     </section>

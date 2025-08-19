@@ -30,9 +30,9 @@ function TerminSection() {
         <div className="price-grid">
           <div className="price-card">
             <h3>1 Sitzung</h3>
-            <p className="price">70 €</p>
+            <p className="price">85 € ( pro Sitzung )</p>
             <p className="description">
-              Ideal zum Kennenlernen oder für ein akutes Anliegen.
+              60 Min. Gyrotonic / Emotionscode/Bodycode.
             </p>
             <a
               href="mailto:info.thebalancewithin@gmail.com"
@@ -44,10 +44,9 @@ function TerminSection() {
 
           <div className="price-card">
             <h3>5 Sitzungen</h3>
-            <p className="price">300 €</p>
+            <p className="price">75 € ( pro Sitzung )</p>
             <p className="description">
-              Begleitung zur intensiven Unterstützung mit Emotions Code® und Der
-              Body Code™<br></br>(60 € pro Sitzung).
+              60 Min. Gyrotonic Selbstzahler/ Emotionscode/ Bodycode.
             </p>
             <a
               href="mailto:info.thebalancewithin@gmail.com"
@@ -58,11 +57,11 @@ function TerminSection() {
           </div>
 
           <div className="price-card">
-            <h3>15 Sitzungen</h3>
-            <p className="price">1450 €</p>
+            <h3>Pro Sitzungen</h3>
+            <p className="price">85 € ( pro Sitzung )</p>
             <p className="description">
-              Transformationsarbeit über 7 Monate mit Sitzungen von jeweils 1,5
-              Stunden.
+              Physiotherapie (KGG ) mit der Gyrotonic Methode 60 Min
+              Einzeltherapie 85 Euro.
             </p>
             <a
               href="mailto:info.thebalancewithin@gmail.com"
