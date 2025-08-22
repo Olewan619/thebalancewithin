@@ -60,7 +60,7 @@ function TerminSection() {
             <h3>Pro Sitzungen</h3>
             <p className="price">85 € ( pro Sitzung )</p>
             <p className="description">
-              Physiotherapie (KGG ) mit der Gyrotonic Methode 60 Min
+              Physiotherapie ( KGG ) mit der Gyrotonic Methode 60 Min
               Einzeltherapie 85 Euro.
             </p>
             <a

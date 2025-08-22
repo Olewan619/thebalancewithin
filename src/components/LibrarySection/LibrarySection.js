@@ -178,7 +178,9 @@ function LibrarySection() {
     </>
   );
 
-  const shortTextFourth = `Für jene Menschen, die sich nach einer tiefgründigen Veränderung sehnen und bereit sind, selbst Arbeit in ihre Transformation zu investieren, biete ich eine 7-monatige Begleitung an.`;
+  const shortTextFourth = `Gyrotonic ® ist ein ganzheitliches Bewegungskonzept, das Gelenke sanft
+mobilisiert, die Muskulatur kräftigt und den Körper in fließenden,
+dreidimensionalen Bewegungen neu ausrichtet.`;
 
   const fullTextFourth = (
     <>
